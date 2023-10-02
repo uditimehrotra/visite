@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525143169034",
+    "project_id": "tidy-rig-315613",
+    "storage_bucket": "tidy-rig-315613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525143169034:android:4d7c48a66cf9b862e8a7f3",
+        "android_client_info": {
+          "package_name": "com.example.visite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525143169034-8edig97hp1n66j51g5ss87j9n3hi1n8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visite",
+            "certificate_hash": "ebab8e6a19da2874f8482038c20bc25a28967571"
+          }
+        },
+        {
+          "client_id": "525143169034-o81gon847l1vh25r8vh1j8d401nng3rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS9CvaW-MPDJFEaHrIbD0l6ytaTuXtdmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525143169034-o81gon847l1vh25r8vh1j8d401nng3rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
